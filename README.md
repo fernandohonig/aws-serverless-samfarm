@@ -120,7 +120,7 @@ Commit y push los cambios.
 Volvemos al pipeline que generamos en el Paso 3, veremos que AWS CodePipeline recogerá automáticamente los cambio e iniciará el proceso de creación e implementación. Voila! Una solución completamente controlada, sin servidor, CI / CD para dar a una ardilla unos cuantos amigos.
 
 
-##AWSenEspañol
+# AWSenEspañol
 Te invitamos a participar de nuestro grupo en LinkedIn, [AWS en Español](https://www.linkedin.com/groups/7403992). Profesionales de habla hispana de todo el mundo nos estamos reuniendo allí para compartir y colaborar en nuestro idioma.
 
 
